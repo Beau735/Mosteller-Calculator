@@ -12,3 +12,6 @@ several guidelines because of its accuracy.
 
 
 This Project was part of my apprenticeship in computer science.
+
+
+![Alt Text](Preview.png)
